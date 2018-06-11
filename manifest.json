@@ -1,0 +1,38 @@
+{
+  "name": "VIDEO.URBANOIR.NET",
+  "short_name": "VIDEO MOTIVASI",
+  "start_url": "https://video.urbanoir.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#FF0711",
+  "description": "Kumpulan video terbaru Video Motivasi dan Inspirasi berbagai pilihan konten menarik lainnya hanya di Urbanoir.net",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s48/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s72/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s96/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s144/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s168/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-65D8nGl_Rvc/Wx7EaxS9VHI/AAAAAAAAAa8/QYLdVsGSsagwuq1KrISQ6rmtV0S_ZMUggCLcBGAs/s192/apple-touch-icon-180x180-precomposed.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K-lP6amnf8s/Wx7F7tExZII/AAAAAAAAAbc/1mNcUIT8sck2_2J6wf06g0Nqz91hJbywwCLcBGAs/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
