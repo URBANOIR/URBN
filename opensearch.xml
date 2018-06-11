@@ -8,7 +8,7 @@
   <Language>id</Language>
 
   <ShortName>video.urbanoir.net/</ShortName>
-  <Url rel="self" type="application/opensearchdescription+xml" href="https://cdn.rawgit.com/URBANOIR/URBN/9203be97/opensearch.xml" />
+  <Url rel="self" type="application/opensearchdescription+xml" href="https://cdn.rawgit.com/URBANOIR/URBN/d6f1f40c/opensearch.xml" />
   <Url method="get" type="text/html" 
       template="https://www.google.com/search?q={searchTerms}&amp;sitesearch=video.urbanoir.net" />
   <Image width="16" height="16">https://video.urbanoir.net/favicon.ico</Image>
